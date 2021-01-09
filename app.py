@@ -41,6 +41,6 @@ while True:
                 # Draw contours
                 cv2.drawContours(img, [approx], -1, (0, 0, 255), 1)
 
-    cv2.imshow("eros", dilation)
+    cv2.imshow("mask", dilation)
     cv2.imshow("cam", img)
     cv2.waitKey(10)
