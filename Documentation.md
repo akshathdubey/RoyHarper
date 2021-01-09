@@ -14,7 +14,7 @@ Email: dubeyakshath19@gmail.com
 
 This documentation is a reference guide for the program to complete the task given under UAS project for round 2. 
 
-##TASK 
+## TASK 
 
 Video feed captured by the web camera and print the angle of its heading with respect to the vertical axis of the image. 
 
