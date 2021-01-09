@@ -6,7 +6,7 @@ Akshath Dubey
 
 ## CONTACT 
 
-GitHub: akshathdubey (Akshath Dubey) (github.com) 
+GitHub: https://github.com/akshathdubey
 
 Email: dubeyakshath19@gmail.com 
 
