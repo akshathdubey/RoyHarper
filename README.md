@@ -12,7 +12,7 @@ Email: dubeyakshath19@gmail.com
 
 ## TASK 
 
-Video feed captured by the web camera and print the angle of its heading with respect to the vertical axis of the image. 
+To detect and draw the outline of a red arrow using image segmentation and contour detection.
 
 ## PROGRAM 
 
