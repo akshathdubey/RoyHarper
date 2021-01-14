@@ -1,4 +1,4 @@
-# UAS-PROJECT 
+# ColourSegmentation
 
 ## NAME
 
@@ -9,10 +9,6 @@ Akshath Dubey
 GitHub: https://github.com/akshathdubey
 
 Email: dubeyakshath19@gmail.com 
-
-## INTRODUCTION 
-
-This documentation is a reference guide for the program to complete the task given under UAS project for round 2. 
 
 ## TASK 
 
